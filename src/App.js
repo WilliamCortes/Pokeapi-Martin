@@ -6,13 +6,12 @@ import ReactPlayer from 'react-player';
 function App() {
   return (
     <div className="App">
-      <h1>Hola Niños este es un obsequio!</h1>>
+      <h1>Hola Matín 😎 este es un obsequio para tí!</h1>
+      <h2>Me encantó tu video ♥</h2>
 
       <ReactPlayer
         url='https://youtu.be/E9Pf7kGqE3c'
-        
         controls
-        playing
         volume='0.5'
     />
     </div>
